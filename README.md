@@ -1,6 +1,6 @@
 # Olá, eu sou o Brenno 
 
-QA Analyst (Pleno) na **Grupo Iter**, atuando em time ágil (Scrum) na Bondinho Squad — cuidando da qualidade dos sistemas do **Parque Bondinho Pão de Açúcar** e do **Parque do Caracol**.
+QA Analyst (Pleno) na **Grupo Iter**, atuando em time ágil (Scrum) na Bondinho Squad, cuidando da qualidade dos sistemas do **Parque Bondinho Pão de Açúcar** e do **Parque do Caracol**.
 
 ## Stack e ferramentas
 
