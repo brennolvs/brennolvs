@@ -21,4 +21,4 @@ BDD · Shift-Left Testing · Scrum · Kanban · Root Cause Analysis
 
 ## Contato
 
-Fique à vontade para dar uma olhada nos meus repositórios ou entrar em contato por aqui.
+Fique à vontade para dar uma olhada nos meus repositórios ou entrar em contato por aqui: [LinkedIn](https://www.linkedin.com/in/brennolvs)
