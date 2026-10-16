@@ -1,6 +1,6 @@
 # Olá, eu sou o Brenno 
 
-QA Analyst (Pleno) na **Grupo Iter**, atuando em time ágil (Scrum) na Bondinho Squad, cuidando da qualidade dos sistemas do **Parque Bondinho Pão de Açúcar** e do **Parque do Caracol**.
+QA Analyst (Pleno) no **Grupo Iter**, atuando em time ágil (Scrum) na Bondinho Squad, cuidando da qualidade dos sistemas do **Parque Bondinho Pão de Açúcar** e do **Parque do Caracol**.
 
 ## Stack e ferramentas
 
@@ -16,7 +16,7 @@ BDD · Shift-Left Testing · Scrum · Kanban · Root Cause Analysis
 ## Formação e certificações
 
 - Tecnólogo em Análise e Desenvolvimento de Sistemas — Senac Santa Luzia (2024)
-- Pós-graduação em Engenharia de Qualidade e Teste — PUC Minas (conclusão em set/2026)
+- Pós-graduação em Engenharia de Qualidade e Teste — PUC Minas (2026)
 - Certificação **CTFL** (ISTQB)
 
 ## Contato
