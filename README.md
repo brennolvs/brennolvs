@@ -4,7 +4,7 @@ QA Analyst (Pleno) no **Grupo Iter**, atuando em time ágil (Scrum) na Bondinho 
 
 ## Stack e ferramentas
 
-- **Automação de testes:** Selenium, Cypress, Playwright, Robot Framework
+- **Automação de testes:** Selenium, Cypress, Playwright, Robot Framework, Cucumber
 - **API Testing:** Postman
 - **Performance:** Grafana K6
 - **Linguagens:** Python, Java, JavaScript, TypeScript, C#, SQL
